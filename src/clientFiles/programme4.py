@@ -1,0 +1,1 @@
+#przykladowy program 4
